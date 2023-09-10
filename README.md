@@ -15,7 +15,6 @@ This data was then loaded into Power BI Desktop in order to create a Dashboard t
 <img width="613" alt="image" src="https://github.com/Kshaamini/PWC-Call-Centre-Analysis---Power-Query-Power-BI/assets/139740694/4f447848-780f-47d6-a7a9-9eb7d7f0c23d">
 
 ## Analysis
-| ----------- | 
-|Based on the dashboard, the top agent who answered the most calls was Jim and the top agent who got the highest satisfaction rate was Dan. February was the month with the highest calls, hence the busiest month for the call centre.    |
-|Even though the calls were mostly resolved than not resolved, on average, the team was only able to satisfy the customers 2.76/5. There needs to be improvement in the call experience for the customer to improve the satisfaction rating|
-||
+Based on the dashboard, the top agent who answered the most calls was Jim and the top agent who got the highest satisfaction rate was Dan. February was the month with the highest calls, hence the busiest month for the call centre.    
+Even though the calls were mostly resolved than not resolved, on average, the team was only able to satisfy the customers 2.76/5. There needs to be improvement in the call experience for the customer to improve the satisfaction rating.
+
