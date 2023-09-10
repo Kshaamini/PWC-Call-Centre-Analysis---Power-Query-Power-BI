@@ -5,13 +5,13 @@
 |The dataset downloaded from Kaggle.com contains 1 excel file and belongs to PWC. It provides the Call Centre data  for the year 2021|
 |Firstly, a data cleansing and transformation was performed in Power Query, to remove null values, change data types and to add calculated columns/measures.|
 
-<img width="845" alt="image" src="https://github.com/Kshaamini/DataAnalysis-PowerBI/assets/139740694/eb29808b-56e9-46f8-8bab-ca6b296e553f">
+<img width="844" alt="image" src="https://github.com/Kshaamini/PWC-Call-Centre-Analysis---Power-Query-Power-BI/assets/139740694/359a3f5f-1925-4281-b192-96ba80931fda">
 
 | Dashboard | 
 | ----------- | 
 |This data was then loaded into Power BI Desktop in order to create a Dashboard that displays insights on total calls answered/rejected, calls duration, calls resolved/unresolved, agents statistics, customer satisfaction|
 
-<img width="511" alt="image" src="https://github.com/Kshaamini/DataAnalysis-PowerBI/assets/139740694/78aff27f-e05e-42f7-9766-b328fa586442">
+<img width="613" alt="image" src="https://github.com/Kshaamini/PWC-Call-Centre-Analysis---Power-Query-Power-BI/assets/139740694/4f447848-780f-47d6-a7a9-9eb7d7f0c23d">
 
 
 | Analysis | 
