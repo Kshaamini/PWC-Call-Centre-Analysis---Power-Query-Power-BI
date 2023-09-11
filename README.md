@@ -22,6 +22,7 @@ They include:
 3. Calls Rejected - 946
 4. Top Agent: Dan 
 5. Average Rating - 2.76/5
+
 Based on the dashboard, February was the month with the highest calls, hence the busiest month for the call centre. More manpower has to be placed during such peak periods to reduce the call rejection rate.
 Even though the calls were mostly resolved than not resolved, on average, the team was only able to satisfy the customers 2.76/5. The root cause for this needs to be further investigated and there needs to be improvement in the call experience for the customer to improve the satisfaction rating.
 
